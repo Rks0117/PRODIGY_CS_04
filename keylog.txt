@@ -1,0 +1,11 @@
+Key.esc
+h
+e
+l
+l
+o
+Key.cmd
+Key.print_screen
+Key.cmd
+Key.print_screen
+Key.esc
